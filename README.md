@@ -1,4 +1,4 @@
-# 🌐 Complete HTML Course — CodeWithHarry (All Source Codes)
+# 🌐 Complete HTML Course 
 
 This repository contains all the HTML source codes I wrote while learning from **CodeWithHarry's Full HTML Course**.  
 It includes every concept, example, practice file, and mini-project created during the course.
